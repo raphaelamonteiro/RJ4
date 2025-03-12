@@ -1,0 +1,23 @@
+{
+  "name": "rj4",
+  "version": "1.0.0",
+   "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaelamonteiro/RJ4.git"
+  },
+  "keywords": [
+    "poo"
+  ],
+  "author": "Raphaela Monteiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphaelamonteiro/RJ4/issues"
+  },
+  "homepage": "https://github.com/raphaelamonteiro/RJ4#readme",
+  "description": ""
+}
